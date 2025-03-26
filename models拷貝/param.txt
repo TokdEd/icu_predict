@@ -1,0 +1,265 @@
+Params:lr = 0.001, n_d=8, n_a=8, gamma=1.2, n_steps=3, lambda=0.01, Score: 0.7062
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=3, lambda=0.001, Score: 0.8568
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=3, lambda=0.01, Score: 0.8515
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=5, lambda=0.001, Score: 0.8535
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=5, lambda=0.01, Score: 0.8540
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=7, lambda=0.001, Score: 0.8559
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=7, lambda=0.01, Score: 0.8568
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.5, n_steps=3, lambda=0.001, Score: 0.8516
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.5, n_steps=3, lambda=0.01, Score: 0.8476
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.5, n_steps=5, lambda=0.001, Score: 0.8539
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.5, n_steps=5, lambda=0.01, Score: 0.8497
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.5, n_steps=7, lambda=0.001, Score: 0.8526
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.5, n_steps=7, lambda=0.01, Score: 0.8533
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.8, n_steps=3, lambda=0.001, Score: 0.8549
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.8, n_steps=3, lambda=0.01, Score: 0.8522
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.8, n_steps=5, lambda=0.001, Score: 0.8540
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.8, n_steps=5, lambda=0.01, Score: 0.8511
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.8, n_steps=7, lambda=0.001, Score: 0.8548
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.8, n_steps=7, lambda=0.01, Score: 0.8543
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.2, n_steps=3, lambda=0.001, Score: 0.8560
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.2, n_steps=3, lambda=0.01, Score: 0.8541
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.2, n_steps=5, lambda=0.001, Score: 0.8486
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.2, n_steps=5, lambda=0.01, Score: 0.8552
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.2, n_steps=7, lambda=0.001, Score: 0.8578
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.2, n_steps=7, lambda=0.01, Score: 0.8529
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.5, n_steps=3, lambda=0.001, Score: 0.8493
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.5, n_steps=3, lambda=0.01, Score: 0.8520
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.5, n_steps=5, lambda=0.001, Score: 0.8537
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.5, n_steps=5, lambda=0.01, Score: 0.8538
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.5, n_steps=7, lambda=0.001, Score: 0.8568
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.5, n_steps=7, lambda=0.01, Score: 0.8538
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.8, n_steps=3, lambda=0.001, Score: 0.8379
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.8, n_steps=3, lambda=0.01, Score: 0.8519
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.8, n_steps=5, lambda=0.001, Score: 0.8522
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.8, n_steps=5, lambda=0.01, Score: 0.8512
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.8, n_steps=7, lambda=0.001, Score: 0.8525
+Params:lr = 0.07, n_d=8, n_a=16, gamma=1.8, n_steps=7, lambda=0.01, Score: 0.8525
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.2, n_steps=3, lambda=0.001, Score: 0.8543
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.2, n_steps=3, lambda=0.01, Score: 0.8525
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.2, n_steps=5, lambda=0.001, Score: 0.8549
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.2, n_steps=5, lambda=0.01, Score: 0.8560
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.2, n_steps=7, lambda=0.001, Score: 0.8556
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.2, n_steps=7, lambda=0.01, Score: 0.8553
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.5, n_steps=3, lambda=0.001, Score: 0.8524
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.5, n_steps=3, lambda=0.01, Score: 0.8519
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.5, n_steps=5, lambda=0.001, Score: 0.8547
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.5, n_steps=5, lambda=0.01, Score: 0.8504
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.5, n_steps=7, lambda=0.001, Score: 0.8541
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.5, n_steps=7, lambda=0.01, Score: 0.8551
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.8, n_steps=3, lambda=0.001, Score: 0.8549
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.8, n_steps=3, lambda=0.01, Score: 0.8490
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.8, n_steps=5, lambda=0.001, Score: 0.8487
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.8, n_steps=5, lambda=0.01, Score: 0.8542
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.8, n_steps=7, lambda=0.001, Score: 0.8557
+Params:lr = 0.07, n_d=8, n_a=32, gamma=1.8, n_steps=7, lambda=0.01, Score: 0.8540
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.2, n_steps=3, lambda=0.001, Score: 0.8534
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.2, n_steps=3, lambda=0.01, Score: 0.8469
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.2, n_steps=5, lambda=0.001, Score: 0.8536
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.2, n_steps=5, lambda=0.01, Score: 0.8521
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.2, n_steps=7, lambda=0.001, Score: 0.8563
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.2, n_steps=7, lambda=0.01, Score: 0.8563
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.5, n_steps=3, lambda=0.001, Score: 0.8540
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.5, n_steps=3, lambda=0.01, Score: 0.8497
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.5, n_steps=5, lambda=0.001, Score: 0.8507
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.5, n_steps=5, lambda=0.01, Score: 0.8534
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.5, n_steps=7, lambda=0.001, Score: 0.8494
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.5, n_steps=7, lambda=0.01, Score: 0.8488
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.8, n_steps=3, lambda=0.001, Score: 0.8527
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.8, n_steps=3, lambda=0.01, Score: 0.8550
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.8, n_steps=5, lambda=0.001, Score: 0.8548
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.8, n_steps=5, lambda=0.01, Score: 0.8492
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.8, n_steps=7, lambda=0.001, Score: 0.8523
+Params:lr = 0.07, n_d=16, n_a=8, gamma=1.8, n_steps=7, lambda=0.01, Score: 0.8524
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.2, n_steps=3, lambda=0.001, Score: 0.8555
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.2, n_steps=3, lambda=0.01, Score: 0.8534
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.2, n_steps=5, lambda=0.001, Score: 0.8550
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.2, n_steps=5, lambda=0.01, Score: 0.8509
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.2, n_steps=7, lambda=0.001, Score: 0.8564
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.2, n_steps=7, lambda=0.01, Score: 0.8561
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.5, n_steps=3, lambda=0.001, Score: 0.8521
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.5, n_steps=3, lambda=0.01, Score: 0.8537
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.5, n_steps=5, lambda=0.001, Score: 0.8550
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.5, n_steps=5, lambda=0.01, Score: 0.8536
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.5, n_steps=7, lambda=0.001, Score: 0.8563
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.5, n_steps=7, lambda=0.01, Score: 0.8515
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.8, n_steps=3, lambda=0.001, Score: 0.8466
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.8, n_steps=3, lambda=0.01, Score: 0.8509
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.8, n_steps=5, lambda=0.001, Score: 0.8551
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.8, n_steps=5, lambda=0.01, Score: 0.8551
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.8, n_steps=7, lambda=0.001, Score: 0.8425
+Params:lr = 0.07, n_d=16, n_a=16, gamma=1.8, n_steps=7, lambda=0.01, Score: 0.8491
+Params:lr = 0.07, n_d=16, n_a=32, gamma=1.2, n_steps=3, lambda=0.001, Score: 0.8551
+Params:lr = 0.07, n_d=16, n_a=32, gamma=1.2, n_steps=3, lambda=0.01, Score: 0.8555
+Params:lr = 0.07, n_d=16, n_a=32, gamma=1.2, n_steps=5, lambda=0.001, Score: 0.8537
+Params:lr = 0.07, n_d=16, n_a=32, gamma=1.2, n_steps=5, lambda=0.01, Score: 0.8550
+Params:lr = 0.07, n_d=16, n_a=32, gamma=1.2, n_steps=7, lambda=0.001, Score: 0.8507
+Params:lr = 0.07, n_d=16, n_a=32, gamma=1.2, n_steps=7, lambda=0.01, Score: 0.8530
+Params:lr = 0.07, n_d=16, n_a=32, gamma=1.5, n_steps=3, lambda=0.001, Score: 0.8552
+Params:lr = 0.07, n_d=16, n_a=32, gamma=1.5, n_steps=3, lambda=0.01, Score: 0.8533
+Params:lr = 0.07, n_d=16, n_a=32, gamma=1.5, n_steps=5, lambda=0.001, Score: 0.8510
+Params:lr = 0.07, n_d=16, n_a=32, gamma=1.5, n_steps=5, lambda=0.01, Score: 0.8494
+Params:lr = 0.07, n_d=16, n_a=32, gamma=1.5, n_steps=7, lambda=0.001, Score: 0.8534
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=3, lambda=0.001, Score: 0.5079
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=3, lambda=0.01, Score: 0.4977
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=5, lambda=0.001, Score: 0.4990
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=5, lambda=0.01, Score: 0.4993
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=7, lambda=0.001, Score: 0.4827
+Params:lr = 0.07, n_d=8, n_a=8, gamma=1.2, n_steps=7, lambda=0.01, Score: 0.5077
+Params: lr=0.01, n_d=13, n_a=23, gamma=1.798839398854607, n_steps=4, lambda=0.004770875601616146, Score: 0.4851
+Params: lr=0.07, n_d=8, n_a=24, gamma=1.7962343779930614, n_steps=5, lambda=0.0015975525783564455, Score: 0.5060
+Params: lr=0.1, n_d=14, n_a=24, gamma=1.5559570718419462, n_steps=7, lambda=0.006561192619617517, Score: 0.5044
+Params: lr=0.05, n_d=32, n_a=22, gamma=1.6050583852403564, n_steps=5, lambda=0.0016887342473624403, Score: 0.4968
+Params: lr=0.05, n_d=20, n_a=30, gamma=1.4959366448959563, n_steps=5, lambda=0.0017073751659197715, Score: 0.4860
+Params: lr=0.1, n_d=11, n_a=10, gamma=1.7484638222447193, n_steps=5, lambda=0.0011571449287256109, Score: 0.5099
+Params: lr=0.01, n_d=9, n_a=23, gamma=1.4463187082993145, n_steps=6, lambda=0.003963567200218959, Score: 0.4898
+Params: lr=0.07, n_d=26, n_a=26, gamma=1.651980379223636, n_steps=4, lambda=0.0030924413577785377, Score: 0.5036
+Params: lr=0.07, n_d=29, n_a=30, gamma=1.3669821272306002, n_steps=7, lambda=0.00809897746062901, Score: 0.5178
+Params: lr=0.01, n_d=27, n_a=26, gamma=1.6205993961433212, n_steps=5, lambda=0.002684940010028507, Score: 0.5028
+Params: lr=0.05, n_d=16, n_a=11, gamma=1.4515485675622162, n_steps=4, lambda=0.002131807278521091, Score: 0.5054
+Params: lr=0.07, n_d=32, n_a=15, gamma=1.2721258067965324, n_steps=7, lambda=0.009909582840528983, Score: 0.5159
+Params: lr=0.07, n_d=32, n_a=15, gamma=1.2332473005240914, n_steps=7, lambda=0.009596764387631079, Score: 0.5220
+Params: lr=0.07, n_d=26, n_a=18, gamma=1.2144608298680166, n_steps=7, lambda=0.009902407808047098, Score: 0.4932
+Params: lr=0.07, n_d=29, n_a=16, gamma=1.332163294001169, n_steps=6, lambda=0.006107057579834328, Score: 0.4990
+Params: lr=0.07, n_d=21, n_a=30, gamma=1.355980413910578, n_steps=3, lambda=0.00613701441897705, Score: 0.4882
+Params: lr=0.07, n_d=23, n_a=13, gamma=1.2029971003742037, n_steps=6, lambda=0.004564989606182107, Score: 0.5017
+Params: lr=0.07, n_d=29, n_a=8, gamma=1.367649548591018, n_steps=7, lambda=0.007713050003843048, Score: 0.4792
+Params: lr=0.01, n_d=30, n_a=32, gamma=1.284124500361673, n_steps=6, lambda=0.004845941934528578, Score: 0.5075
+Params: lr=0.1, n_d=23, n_a=20, gamma=1.4041698435078778, n_steps=7, lambda=0.007693780091576289, Score: 0.5071
+Params: lr=0.07, n_d=18, n_a=19, gamma=1.2873170174851827, n_steps=6, lambda=0.0080667305418114, Score: 0.5217
+Params: lr=0.07, n_d=18, n_a=18, gamma=1.267133597049614, n_steps=6, lambda=0.004873772042165174, Score: 0.4949
+Params: lr=0.07, n_d=17, n_a=20, gamma=1.316562736549015, n_steps=7, lambda=0.00802524617186911, Score: 0.4891
+Params: lr=0.07, n_d=23, n_a=15, gamma=1.240645897826331, n_steps=6, lambda=0.008783020973548578, Score: 0.4843
+Params: lr=0.07, n_d=14, n_a=18, gamma=1.410960962041122, n_steps=7, lambda=0.006525189882654428, Score: 0.5018
+Params: lr=0.07, n_d=31, n_a=13, gamma=1.308684027747951, n_steps=6, lambda=0.0058837907471924, Score: 0.4947
+Params: lr=0.07, n_d=28, n_a=27, gamma=1.3765386050335162, n_steps=7, lambda=0.0038237231019723813, Score: 0.4933
+Params: lr=0.1, n_d=25, n_a=21, gamma=1.2455790939833389, n_steps=6, lambda=0.008934640136740517, Score: 0.5177
+Params: lr=0.01, n_d=19, n_a=16, gamma=1.3301386650623983, n_steps=7, lambda=0.007448293320923836, Score: 0.5123
+Params: lr=0.05, n_d=15, n_a=12, gamma=1.5003470068470937, n_steps=7, lambda=0.005770509740844684, Score: 0.5137
+Params: lr=0.07, n_d=12, n_a=19, gamma=1.2981404016871954, n_steps=6, lambda=0.001106071533357164, Score: 0.4722
+Params: lr=0.07, n_d=24, n_a=27, gamma=1.202775063226378, n_steps=4, lambda=0.009772826670069316, Score: 0.4918
+Params: lr=0.1, n_d=25, n_a=22, gamma=1.2446717912050067, n_steps=6, lambda=0.008481451753250395, Score: 0.4843
+Params: lr=0.1, n_d=30, n_a=21, gamma=1.2400996941980875, n_steps=6, lambda=0.007082901484767955, Score: 0.5007
+Params: lr=0.1, n_d=21, n_a=24, gamma=1.2586461976419152, n_steps=7, lambda=0.008928714938273715, Score: 0.4916
+Params: lr=0.1, n_d=32, n_a=29, gamma=1.2954411804477397, n_steps=5, lambda=0.007021980822730229, Score: 0.5054
+Params: lr=0.1, n_d=28, n_a=32, gamma=1.3435972638229057, n_steps=7, lambda=0.005331227348845678, Score: 0.4972
+Params: lr=0.05, n_d=21, n_a=16, gamma=1.4024703630860786, n_steps=6, lambda=0.0013361713823518539, Score: 0.5104
+Params: lr=0.1, n_d=30, n_a=14, gamma=1.5208902825890036, n_steps=6, lambda=0.008783967711357012, Score: 0.5071
+Params: lr=0.01, n_d=27, n_a=24, gamma=1.7190124157075162, n_steps=5, lambda=0.003917583356547827, Score: 0.4912
+Params: lr=0.05, n_d=25, n_a=17, gamma=1.4456881136173363, n_steps=5, lambda=0.0020044371398669943, Score: 0.5033
+Params: lr=0.07, n_d=8, n_a=22, gamma=1.5589886986843546, n_steps=7, lambda=0.0028137918665354874, Score: 0.5167
+Params: lr=0.07, n_d=10, n_a=22, gamma=1.569619193806619, n_steps=7, lambda=0.00259368805571025, Score: 0.4923
+Params: lr=0.07, n_d=8, n_a=20, gamma=1.5565788910517833, n_steps=7, lambda=0.003153389654812358, Score: 0.4892
+Params: lr=0.07, n_d=13, n_a=25, gamma=1.622786153506818, n_steps=7, lambda=0.002765673218792943, Score: 0.4973
+Params: lr=0.07, n_d=32, n_a=22, gamma=1.667929656717338, n_steps=6, lambda=0.002277792491678534, Score: 0.5099
+Params: lr=0.07, n_d=27, n_a=23, gamma=1.2265941210255231, n_steps=4, lambda=0.0036588564425116604, Score: 0.5005
+Params: lr=0.07, n_d=31, n_a=10, gamma=1.4700915421582477, n_steps=7, lambda=0.0067145044703232955, Score: 0.5005
+Params: lr=0.1, n_d=11, n_a=29, gamma=1.2717808390313234, n_steps=3, lambda=0.009872361355024005, Score: 0.4965
+Params: lr=0.07, n_d=29, n_a=19, gamma=1.5289262419567233, n_steps=7, lambda=0.004355583608501839, Score: 0.4939
+Params: lr=0.01, n_d=16, n_a=17, gamma=1.5871042812677068, n_steps=5, lambda=0.001836297700571939, Score: 0.5050
+Best parameters: {'n_d': 32, 'n_a': 15, 'gamma': 1.2332473005240914, 'n_steps': 7, 'lambda_sparse': 0.009596764387631079, 'lr': 0.07}
+Best score: 0.5220
+Params: lr=0.1, n_d=15, n_a=32, gamma=1.4092050672682197, n_steps=6, lambda=0.007804212626218803, Score: 0.4915
+Params: lr=0.07, n_d=23, n_a=20, gamma=1.7318019985405522, n_steps=6, lambda=0.0016671865194362926, Score: 0.4980
+Params: lr=0.07, n_d=18, n_a=20, gamma=1.4148579446908642, n_steps=4, lambda=0.0056263076841613375, Score: 0.4851
+Params: lr=0.01, n_d=9, n_a=22, gamma=1.2089962038730866, n_steps=5, lambda=0.004442760854263649, Score: 0.4776
+Params: lr=0.01, n_d=29, n_a=19, gamma=1.4933642734385462, n_steps=6, lambda=0.0018125423864784917, Score: 0.4943
+Params: lr=0.1, n_d=31, n_a=20, gamma=1.410119368640367, n_steps=7, lambda=0.003995603069567677, Score: 0.4981
+Params: lr=0.05, n_d=30, n_a=24, gamma=1.2505383242638286, n_steps=4, lambda=0.005817055520391428, Score: 0.5109
+Params: lr=0.1, n_d=31, n_a=17, gamma=1.480715299392074, n_steps=3, lambda=0.008328726475748111, Score: 0.4923
+Params: lr=0.05, n_d=21, n_a=22, gamma=1.5523571847487798, n_steps=4, lambda=0.0013305647857527433, Score: 0.4989
+Params: lr=0.07, n_d=11, n_a=17, gamma=1.5888578319832967, n_steps=7, lambda=0.006818092899550318, Score: 0.5073
+Params: lr=0.05, n_d=27, n_a=9, gamma=1.2017739013507438, n_steps=3, lambda=0.00255197673239505, Score: 0.4937
+Params: lr=0.07, n_d=10, n_a=27, gamma=1.6508083179884274, n_steps=7, lambda=0.00617978832161698, Score: 0.5023
+Params: lr=0.05, n_d=14, n_a=14, gamma=1.3058388721489194, n_steps=4, lambda=0.00977647263485677, Score: 0.4881
+Params: lr=0.07, n_d=24, n_a=27, gamma=1.6066305205391584, n_steps=5, lambda=0.003541987061258926, Score: 0.5118
+Params: lr=0.05, n_d=25, n_a=27, gamma=1.7933763300838743, n_steps=5, lambda=0.0031819565581020304, Score: 0.4818
+Params: lr=0.05, n_d=26, n_a=26, gamma=1.6584354630550648, n_steps=4, lambda=0.0024885400877698335, Score: 0.5010
+Params: lr=0.07, n_d=22, n_a=32, gamma=1.30475531252658, n_steps=5, lambda=0.004286228059978808, Score: 0.4933
+Params: lr=0.01, n_d=28, n_a=25, gamma=1.3147330749292743, n_steps=3, lambda=0.0032146203725700213, Score: 0.5040
+Params: lr=0.07, n_d=18, n_a=30, gamma=1.6181910838355522, n_steps=4, lambda=0.005263042580063587, Score: 0.4974
+Params: lr=0.05, n_d=32, n_a=24, gamma=1.5547103691226711, n_steps=5, lambda=0.002467566035557581, Score: 0.5062
+Params: lr=0.05, n_d=24, n_a=29, gamma=1.7384883416752779, n_steps=5, lambda=0.003585308355654739, Score: 0.5105
+Params: lr=0.05, n_d=24, n_a=29, gamma=1.7165197401563037, n_steps=5, lambda=0.003691780772101601, Score: 0.4825
+Params: lr=0.05, n_d=20, n_a=28, gamma=1.7981465369517386, n_steps=6, lambda=0.0010093463346924451, Score: 0.5001
+Params: lr=0.05, n_d=29, n_a=24, gamma=1.7027611691135447, n_steps=4, lambda=0.004920571204940833, Score: 0.4884
+Params: lr=0.05, n_d=25, n_a=23, gamma=1.7404760983379544, n_steps=5, lambda=0.0028068801981496767, Score: 0.4883
+Params: lr=0.07, n_d=23, n_a=29, gamma=1.6807582490550352, n_steps=5, lambda=0.001997785938674334, Score: 0.5006
+Params: lr=0.01, n_d=19, n_a=30, gamma=1.6020876439639955, n_steps=6, lambda=0.003435684973871631, Score: 0.5107
+Params: lr=0.01, n_d=19, n_a=31, gamma=1.5405022043744097, n_steps=6, lambda=0.00485672197081083, Score: 0.4890
+Params: lr=0.01, n_d=15, n_a=26, gamma=1.6152077513626304, n_steps=6, lambda=0.006783315464499869, Score: 0.5045
+Params: lr=0.1, n_d=17, n_a=32, gamma=1.5041537257394377, n_steps=6, lambda=0.008091485347415031, Score: 0.5207
+Params: lr=0.1, n_d=13, n_a=32, gamma=1.4575957225327438, n_steps=7, lambda=0.008857529436985458, Score: 0.5099
+Params: lr=0.1, n_d=17, n_a=31, gamma=1.580856299047705, n_steps=6, lambda=0.007537679374124935, Score: 0.4752
+Params: lr=0.1, n_d=17, n_a=30, gamma=1.5312698659682764, n_steps=6, lambda=0.006154252475094151, Score: 0.4885
+Params: lr=0.01, n_d=16, n_a=27, gamma=1.4422428080113927, n_steps=6, lambda=0.007431405754031615, Score: 0.5045
+Params: lr=0.1, n_d=21, n_a=32, gamma=1.353403468294608, n_steps=7, lambda=0.0057729534170891175, Score: 0.5045
+Params: lr=0.01, n_d=19, n_a=28, gamma=1.5060242678788356, n_steps=5, lambda=0.009604529468769352, Score: 0.4915
+Params: lr=0.07, n_d=12, n_a=25, gamma=1.3734726981659453, n_steps=6, lambda=0.0020624312602307276, Score: 0.5008
+Params: lr=0.1, n_d=30, n_a=22, gamma=1.2406382084995746, n_steps=4, lambda=0.004534533389620292, Score: 0.4752
+Params: lr=0.01, n_d=22, n_a=30, gamma=1.5024240098792518, n_steps=3, lambda=0.003920990881977524, Score: 0.5054
+Params: lr=0.07, n_d=20, n_a=21, gamma=1.6208990543137671, n_steps=6, lambda=0.003401818224172252, Score: 0.4862
+Params: lr=0.1, n_d=15, n_a=19, gamma=1.5789762643492657, n_steps=7, lambda=0.0029073710893372457, Score: 0.5114
+Params: lr=0.1, n_d=15, n_a=18, gamma=1.5804091815086303, n_steps=7, lambda=0.002861199040994781, Score: 0.5004
+Params: lr=0.1, n_d=17, n_a=15, gamma=1.4641060749913044, n_steps=7, lambda=0.0028314641161485098, Score: 0.4984
+Params: lr=0.1, n_d=8, n_a=19, gamma=1.5228681991818274, n_steps=7, lambda=0.0022029475868397667, Score: 0.4985
+Params: lr=0.1, n_d=13, n_a=15, gamma=1.5677413387582204, n_steps=7, lambda=0.001695676677631121, Score: 0.4931
+Params: lr=0.1, n_d=18, n_a=28, gamma=1.6364226258104628, n_steps=6, lambda=0.00843239492034992, Score: 0.4999
+Params: lr=0.07, n_d=15, n_a=21, gamma=1.425624517566978, n_steps=4, lambda=0.004301193104772683, Score: 0.4983
+Params: lr=0.01, n_d=27, n_a=13, gamma=1.6063357406225263, n_steps=5, lambda=0.0039045166875662845, Score: 0.5026
+Params: lr=0.07, n_d=16, n_a=26, gamma=1.6678958168004796, n_steps=7, lambda=0.0015015777645588579, Score: 0.5136
+Params: lr=0.07, n_d=14, n_a=24, gamma=1.6611921057554841, n_steps=7, lambda=0.0013833792406057425, Score: 0.5020
+Best parameters: {'n_d': 17, 'n_a': 32, 'gamma': 1.5041537257394377, 'n_steps': 6, 'lambda_sparse': 0.008091485347415031, 'lr': 0.1}
+Best score: 0.5207
+Params: lr=0.07, n_d=27, n_a=9, gamma=1.5437432198128016, n_steps=6, lambda=0.004469961703259242, Score: 0.5031
+Params: lr=0.07, n_d=30, n_a=16, gamma=1.29570056299729, n_steps=5, lambda=0.0013129646624815635, Score: 0.5007
+Params: lr=0.1, n_d=19, n_a=18, gamma=1.5537028463714655, n_steps=6, lambda=0.006405863662473027, Score: 0.5082
+Params: lr=0.1, n_d=28, n_a=16, gamma=1.4580590563735194, n_steps=4, lambda=0.007113425637608629, Score: 0.5047
+Params: lr=0.05, n_d=22, n_a=24, gamma=1.2783562402282074, n_steps=7, lambda=0.006172288842423645, Score: 0.4957
+Params: lr=0.05, n_d=21, n_a=17, gamma=1.7013256514072195, n_steps=4, lambda=0.0010723631942161408, Score: 0.4916
+Params: lr=0.07, n_d=14, n_a=11, gamma=1.5168934139496963, n_steps=3, lambda=0.004084051799486811, Score: 0.4925
+Params: lr=0.05, n_d=9, n_a=17, gamma=1.3931838143240207, n_steps=5, lambda=0.007690172133445443, Score: 0.4951
+Params: lr=0.05, n_d=13, n_a=19, gamma=1.5672795133994144, n_steps=5, lambda=0.007439570584410553, Score: 0.4876
+Params: lr=0.01, n_d=30, n_a=16, gamma=1.216113446157648, n_steps=6, lambda=0.005442222259078493, Score: 0.4975
+Params: lr=0.1, n_d=17, n_a=32, gamma=1.7537703322376628, n_steps=7, lambda=0.002316489688527309, Score: 0.5081
+Params: lr=0.1, n_d=17, n_a=32, gamma=1.7467065144201384, n_steps=7, lambda=0.002250284093054232, Score: 0.4814
+Params: lr=0.1, n_d=18, n_a=25, gamma=1.633712326254871, n_steps=6, lambda=0.002499600246246992, Score: 0.5179
+Params: lr=0.1, n_d=25, n_a=25, gamma=1.6231916837745635, n_steps=6, lambda=0.002840249844637447, Score: 0.4867
+Params: lr=0.1, n_d=18, n_a=24, gamma=1.658614076998738, n_steps=6, lambda=0.0016954794272117078, Score: 0.5037
+Params: lr=0.01, n_d=23, n_a=26, gamma=1.4184696449798195, n_steps=6, lambda=0.009900765113710573, Score: 0.4852
+Params: lr=0.1, n_d=14, n_a=28, gamma=1.5980435207924355, n_steps=4, lambda=0.0033797034633001257, Score: 0.4801
+Params: lr=0.1, n_d=9, n_a=21, gamma=1.799120573175728, n_steps=7, lambda=0.0019110139736121985, Score: 0.5034
+Params: lr=0.1, n_d=20, n_a=21, gamma=1.6489384513854177, n_steps=6, lambda=0.00302405519878133, Score: 0.4911
+Params: lr=0.01, n_d=12, n_a=29, gamma=1.471718799744285, n_steps=5, lambda=0.004210122606930744, Score: 0.4925
+Params: lr=0.1, n_d=19, n_a=13, gamma=1.3486099872460051, n_steps=3, lambda=0.005176299825037537, Score: 0.5237
+Params: lr=0.1, n_d=18, n_a=13, gamma=1.3812827152042613, n_steps=3, lambda=0.0052526967998273305, Score: 0.4975
+Params: lr=0.1, n_d=20, n_a=13, gamma=1.3247546429601116, n_steps=3, lambda=0.0035212042694157263, Score: 0.5175
+Params: lr=0.1, n_d=24, n_a=13, gamma=1.3493968790584467, n_steps=3, lambda=0.0034910571793701443, Score: 0.5125
+Params: lr=0.1, n_d=16, n_a=8, gamma=1.3199861340824022, n_steps=4, lambda=0.0026988165666787683, Score: 0.4998
+Params: lr=0.1, n_d=21, n_a=12, gamma=1.2508022796985367, n_steps=3, lambda=0.00358703426961344, Score: 0.4887
+Params: lr=0.1, n_d=15, n_a=21, gamma=1.4362864230793877, n_steps=3, lambda=0.004902808863743337, Score: 0.4930
+Params: lr=0.07, n_d=26, n_a=14, gamma=1.3549224276140672, n_steps=4, lambda=0.0023095645270550798, Score: 0.5105
+Params: lr=0.01, n_d=20, n_a=9, gamma=1.2237871551680606, n_steps=3, lambda=0.0016823491283320972, Score: 0.4964
+Params: lr=0.07, n_d=11, n_a=11, gamma=1.488288378698573, n_steps=4, lambda=0.004079116609842652, Score: 0.4944
+Params: lr=0.1, n_d=32, n_a=9, gamma=1.5227836396458594, n_steps=3, lambda=0.002722669390954192, Score: 0.5075
+Params: lr=0.1, n_d=24, n_a=14, gamma=1.3406788501619706, n_steps=3, lambda=0.003524796980027497, Score: 0.4953
+Params: lr=0.1, n_d=23, n_a=14, gamma=1.27195731998384, n_steps=3, lambda=0.0047443061967066295, Score: 0.5061
+Params: lr=0.1, n_d=27, n_a=11, gamma=1.318068126029429, n_steps=4, lambda=0.0037340291732152766, Score: 0.4873
+Params: lr=0.1, n_d=19, n_a=15, gamma=1.3641968427118938, n_steps=3, lambda=0.003193141545918004, Score: 0.5050
+Params: lr=0.1, n_d=23, n_a=19, gamma=1.4046558926639685, n_steps=5, lambda=0.006002255642137344, Score: 0.4794
+Params: lr=0.07, n_d=21, n_a=23, gamma=1.290299480167925, n_steps=4, lambda=0.002519742216547465, Score: 0.5081
+Params: lr=0.05, n_d=19, n_a=12, gamma=1.4497950697095916, n_steps=3, lambda=0.0012859388358609398, Score: 0.5035
+Params: lr=0.1, n_d=25, n_a=10, gamma=1.3175194824884953, n_steps=4, lambda=0.001979033087228776, Score: 0.4964
+Params: lr=0.1, n_d=22, n_a=17, gamma=1.5753719093416694, n_steps=3, lambda=0.004614507621077756, Score: 0.4913
+Params: lr=0.05, n_d=15, n_a=15, gamma=1.2004793297810799, n_steps=5, lambda=0.0038983613204133178, Score: 0.4878
+Params: lr=0.07, n_d=27, n_a=14, gamma=1.3552004425605122, n_steps=4, lambda=0.0022278557750682144, Score: 0.5080
+Params: lr=0.07, n_d=26, n_a=13, gamma=1.2602211146073514, n_steps=3, lambda=0.0030768965572612827, Score: 0.5119
+Params: lr=0.07, n_d=28, n_a=12, gamma=1.2481769755851213, n_steps=3, lambda=0.003042639883805122, Score: 0.5007
+Params: lr=0.07, n_d=25, n_a=18, gamma=1.2588178601336155, n_steps=3, lambda=0.0031640594104131825, Score: 0.5021
+Params: lr=0.07, n_d=29, n_a=16, gamma=1.2930345004708106, n_steps=3, lambda=0.0062874417424387385, Score: 0.4933
+Params: lr=0.1, n_d=17, n_a=13, gamma=1.3865818900993763, n_steps=3, lambda=0.008621871726120695, Score: 0.5006
+Params: lr=0.01, n_d=22, n_a=10, gamma=1.3212950986683363, n_steps=5, lambda=0.005360721894517311, Score: 0.5024
+Params: lr=0.05, n_d=19, n_a=29, gamma=1.5348934405731458, n_steps=7, lambda=0.0025686277076506976, Score: 0.4971
+Params: lr=0.1, n_d=20, n_a=8, gamma=1.2293455305096739, n_steps=4, lambda=0.0019843219972994364, Score: 0.5182
+Best parameters: {'n_d': 19, 'n_a': 13, 'gamma': 1.3486099872460051, 'n_steps': 3, 'lambda_sparse': 0.005176299825037537, 'lr': 0.1}
+Best score: 0.5237

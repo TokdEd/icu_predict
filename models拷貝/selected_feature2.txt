@@ -1,0 +1,7 @@
+apache_4a_hospital_death_prob
+d1_mbp_min
+h1_resprate_min
+ventilated_apache
+d1_temp_max
+d1_sysbp_noninvasive_max
+d1_potassium_min
